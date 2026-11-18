@@ -6,3 +6,5 @@
 - A: Check config/settings.json.
 - Q: How to configure settings?
 - A: Check config/settings.json.
+- Q: How to configure settings?
+- A: Check config/settings.json.
