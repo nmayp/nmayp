@@ -1,0 +1,2 @@
+- Q: How to configure settings?
+- A: Check config/settings.json.
