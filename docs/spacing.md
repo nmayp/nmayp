@@ -1,1 +1,2 @@
 - Adjusted paragraph margins.
+- Adjusted paragraph margins.
