@@ -1,1 +1,2 @@
 - Fixed typo in notes.
+- Fixed typo in notes.
