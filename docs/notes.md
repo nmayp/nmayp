@@ -1,2 +1,3 @@
 - Fixed typo in notes.
 - Fixed typo in notes.
+- Cleaned up spacing.
