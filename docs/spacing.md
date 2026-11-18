@@ -3,3 +3,4 @@
 - Adjusted paragraph margins.
 - Adjusted paragraph margins.
 - Adjusted paragraph margins.
+- Adjusted paragraph margins.
