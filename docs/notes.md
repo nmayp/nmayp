@@ -6,3 +6,4 @@
 - Cleaned up spacing.
 - Cleaned up spacing.
 - Fixed typo in notes.
+- Fixed typo in notes.
